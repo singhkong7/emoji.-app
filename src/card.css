@@ -1,0 +1,41 @@
+.card
+{
+  border-radius: 25px;
+  background-color:cyan;
+  height: 400px;
+  width: 350px;
+  margin-top: 10px;
+  box-shadow: 0 2px 5px #ccc;
+  text-align:left;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.top
+{
+  padding-left: 50px;
+  text-align: center;
+}
+.name
+{
+  margin-top: 10px;
+  color: black;
+  text-align: center;
+
+}
+.info
+{
+  margin-top: 60px;
+  color:blue;
+  margin-left: 20px;
+}
+.circle-img
+{
+  margin-top: 20px;
+  border-radius: 50%;
+  border: 7px solid #fff;
+  width: 100px;
+  height: 90px;
+  text-align: center;
+  overflow: auto;
+} 

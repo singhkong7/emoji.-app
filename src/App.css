@@ -1,0 +1,21 @@
+body
+{
+  color: cornflowerblue;
+}
+.heading
+{
+  background-color: cornflowerblue;
+  color: azure;
+  text-align: center;
+  height: 60px;
+  width: 200px;
+  align-items: center;
+  margin-left:540px;
+}
+.section
+{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
